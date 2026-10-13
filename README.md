@@ -13,3 +13,5 @@ Simple app to convert fiat currency
 ![Simple_ss](/Screenshot_20240201_153407.png)
 
 
+
+Last updated: 2026-10-13 15:56 UTC
